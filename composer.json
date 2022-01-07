@@ -1,0 +1,15 @@
+{
+    "name": "wrongshell/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Wrongshell\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wrongshell",
+            "email": "wrongshell@imap.cc"
+        }
+    ],
+    "require": {}
+}
