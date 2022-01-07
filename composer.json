@@ -11,5 +11,7 @@
             "email": "wrongshell@imap.cc"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.78"
+    }
 }
